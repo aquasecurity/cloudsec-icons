@@ -28,6 +28,10 @@ func main() {
     if err := generateZip(); err != nil {
         log.Fatalf("Failed to generate zip: %s", err)
     }
+
+    if err := generateDrawIOLibrary(); err != nil {
+        log.Fatalf("Failed to generate draw.io library: %s", err)
+    }
 }
 
 func prepareEnvironment() error {
