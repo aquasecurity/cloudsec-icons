@@ -77,7 +77,8 @@ func generateTable() (string, error) {
 * WARNING! *
 This table has been automatically generated. Please do not edit directly, but run 'make generate' instead!
 -->
-<table width="100%">\n`)
+<table width="100%">
+`)
 
     iconsPerRow := 5
 

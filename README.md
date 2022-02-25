@@ -13,7 +13,8 @@ The latest release contains all icon SVGs in both black and blue: [download](htt
 * WARNING! *
 This table has been automatically generated. Please do not edit directly, but run 'make generate' instead!
 -->
-<table width="100%">\n<tr>
+<table width="100%">
+<tr>
 <td align="center"><img title="3rd Party" alt="3rd Party Icon" src="src/3rd_Party_Aqua.svg" /></td><td align="center"><img title="API Documentation" alt="API Documentation Icon" src="src/API_Documentation_Aqua.svg" /></td><td align="center"><img title="API Keys" alt="API Keys Icon" src="src/API_Keys_Aqua.svg" /></td><td align="center"><img title="Accept Risk" alt="Accept Risk Icon" src="src/Accept_Risk_Aqua.svg" /></td><td align="center"><img title="Add" alt="Add Icon" src="src/Add_Aqua.svg" /></td>
 </tr>
 <tr>
