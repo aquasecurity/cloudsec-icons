@@ -15,7 +15,7 @@ Here's how to use it to build awesome diagrams:
 1. Download *draw.io.xml* from the  [latest release](https://github.com/aquasecurity/cloudsec-icons/releases/latest).
 2. Navigate to https://draw.io and create a new diagram.
 3. Click `File -> Open Library from -> Device`
-4. Select the *draw.io.xml* ou downloaded in Step 1.
+4. Select the *draw.io.xml* you downloaded in Step 1.
 
 ## Icon Cheatsheet
 
