@@ -4,7 +4,7 @@ These icons are published under the extremely permissive *Creative Commons Zero 
 
 ## Downloads
 
-The latest release contains all icon SVGs in both black and blue: [download](https://github.com/aquasecurity/cloudsec-icons/releases/latest).
+The latest release contains all icon SVGs in both black and blue: [downloads](https://github.com/aquasecurity/cloudsec-icons/releases/latest).
 
 ## Icon Cheatsheet
 
