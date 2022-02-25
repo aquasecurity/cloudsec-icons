@@ -15,7 +15,7 @@ func generateSVGs() error {
     return filepath.Walk("./src", createSVGs(colours))
 }
 
-var fillRegex = regexp.MustCompile(`fill="[^"]+"`)
+var fillRegex = regexp.MustCompile(`fill="#0[aA]00[dD]8"`)
 
 func createSVGs(colours map[string]string) func(path string, info os.FileInfo, err error) error {
     return func(path string, info os.FileInfo, err error) error {
