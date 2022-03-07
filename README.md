@@ -6,6 +6,10 @@ These icons are published under the extremely permissive *Creative Commons Zero 
 
 We provide all icon SVGs in both black and blue - download *icons.zip* from the [latest release](https://github.com/aquasecurity/cloudsec-icons/releases/latest).
 
+## The Noun Project
+
+We are now part of [The Noun Project](https://thenounproject.com/aquasec/) - the most comprehensive icon collection in the world!
+
 ## Draw.io Library
 
 We also provide a [draw.io](https://draw.io) library. 
