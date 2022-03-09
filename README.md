@@ -54,10 +54,10 @@ This table has been automatically generated. Please do not edit directly, but ru
 <td align="center">Assurance Violation</td><td align="center">Audit</td><td align="center">Audit Only</td><td align="center">Binary File</td><td align="center">Bitcoin Mining</td>
 </tr>
 <tr>
-<td align="center"><img title="Block allow" alt="Block allow Icon" src="src/Block_allow_Aqua.svg" /></td><td align="center"><img title="Blocked Event" alt="Blocked Event Icon" src="src/Blocked_Event_Aqua.svg" /></td><td align="center"><img title="Brute Force Attack" alt="Brute Force Attack Icon" src="src/Brute_Force_Attack_Aqua.svg" /></td><td align="center"><img title="CICD" alt="CICD Icon" src="src/CICD_Aqua.svg" /></td><td align="center"><img title="CNAPP" alt="CNAPP Icon" src="src/CNAPP_Aqua.svg" /></td>
+<td align="center"><img title="Block Allow" alt="Block Allow Icon" src="src/Block_Allow_Aqua.svg" /></td><td align="center"><img title="Blocked Event" alt="Blocked Event Icon" src="src/Blocked_Event_Aqua.svg" /></td><td align="center"><img title="Brute Force Attack" alt="Brute Force Attack Icon" src="src/Brute_Force_Attack_Aqua.svg" /></td><td align="center"><img title="CICD" alt="CICD Icon" src="src/CICD_Aqua.svg" /></td><td align="center"><img title="CNAPP" alt="CNAPP Icon" src="src/CNAPP_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Block allow</td><td align="center">Blocked Event</td><td align="center">Brute Force Attack</td><td align="center">CICD</td><td align="center">CNAPP</td>
+<td align="center">Block Allow</td><td align="center">Blocked Event</td><td align="center">Brute Force Attack</td><td align="center">CICD</td><td align="center">CNAPP</td>
 </tr>
 <tr>
 <td align="center"><img title="CVE" alt="CVE Icon" src="src/CVE_Aqua.svg" /></td><td align="center"><img title="Calendar" alt="Calendar Icon" src="src/Calendar_Aqua.svg" /></td><td align="center"><img title="Cattle" alt="Cattle Icon" src="src/Cattle_Aqua.svg" /></td><td align="center"><img title="Change Password" alt="Change Password Icon" src="src/Change_Password_Aqua.svg" /></td><td align="center"><img title="Changelog 2" alt="Changelog 2 Icon" src="src/Changelog_2_Aqua.svg" /></td>
