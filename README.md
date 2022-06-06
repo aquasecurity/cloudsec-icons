@@ -10,6 +10,10 @@ We provide all icon SVGs in both black and blue - download *icons.zip* from the 
 
 We are now part of [The Noun Project](https://thenounproject.com/aquasec/) - the most comprehensive icon collection in the world!
 
+## Icon Finder
+
+We are also now available on [Iconfinder](https://www.iconfinder.com/search/icons?family=aqua-sec-cloud-icons)!
+
 ## Draw.io Library
 
 We also provide a [draw.io](https://draw.io) library. 
