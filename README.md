@@ -2,6 +2,8 @@
 
 These icons are published under the extremely permissive *Creative Commons Zero v1.0 Universal* license. 
 
+https://user-images.githubusercontent.com/1187060/172357031-890c20d8-1970-4a23-849b-be5a0ac3e48a.mp4
+
 ## Downloads
 
 We provide all icon SVGs in both black and blue - download *icons.zip* from the [latest release](https://github.com/aquasecurity/cloudsec-icons/releases/latest).
