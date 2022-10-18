@@ -17,3 +17,5 @@ There is a short process to make adding new icons seamless:
     `git add src && git commit -am "feat: Add my awesome icon" && git push origin add-my-awesome-icon`
 7. Create a pull request on GitHub.
 8. Wait for the pull request to be merged.
+9. Check out the master branch and pull the latest commit down.
+10. Manually create a new tag `git tag v3.13.37` and push it `git push origin v3.13.37`
