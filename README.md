@@ -136,190 +136,196 @@ This table has been automatically generated. Please do not edit directly, but ru
 <td align="center">Enforcers</td><td align="center">Enforcers Notification</td><td align="center">Environment</td><td align="center">Events</td><td align="center">Evidence</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Export" alt="Export Icon" src="src/Export_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Export PDF" alt="Export PDF Icon" src="src/Export_PDF_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Failed" alt="Failed Icon" src="src/Failed_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Favorites" alt="Favorites Icon" src="src/Favorites_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="File" alt="File Icon" src="src/File_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Export" alt="Export Icon" src="src/Export_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Export PDF" alt="Export PDF Icon" src="src/Export_PDF_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Failed" alt="Failed Icon" src="src/Failed_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Favorites" alt="Favorites Icon" src="src/Favorites_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Federal Security" alt="Federal Security Icon" src="src/Federal_Security_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Export</td><td align="center">Export PDF</td><td align="center">Failed</td><td align="center">Favorites</td><td align="center">File</td>
+<td align="center">Export</td><td align="center">Export PDF</td><td align="center">Failed</td><td align="center">Favorites</td><td align="center">Federal Security</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Filter" alt="Filter Icon" src="src/Filter_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Firewall" alt="Firewall Icon" src="src/Firewall_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Folder" alt="Folder Icon" src="src/Folder_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Forbidden Labels" alt="Forbidden Labels Icon" src="src/Forbidden_Labels_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Full Screen" alt="Full Screen Icon" src="src/Full_Screen_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="File" alt="File Icon" src="src/File_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Filter" alt="Filter Icon" src="src/Filter_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Firewall" alt="Firewall Icon" src="src/Firewall_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Folder" alt="Folder Icon" src="src/Folder_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Forbidden Labels" alt="Forbidden Labels Icon" src="src/Forbidden_Labels_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Filter</td><td align="center">Firewall</td><td align="center">Folder</td><td align="center">Forbidden Labels</td><td align="center">Full Screen</td>
+<td align="center">File</td><td align="center">Filter</td><td align="center">Firewall</td><td align="center">Folder</td><td align="center">Forbidden Labels</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Function" alt="Function Icon" src="src/Function_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Garbage" alt="Garbage Icon" src="src/Garbage_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Gateway" alt="Gateway Icon" src="src/Gateway_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Gateway New" alt="Gateway New Icon" src="src/Gateway_New_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="GitHub" alt="GitHub Icon" src="src/GitHub_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Full Screen" alt="Full Screen Icon" src="src/Full_Screen_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Function" alt="Function Icon" src="src/Function_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Garbage" alt="Garbage Icon" src="src/Garbage_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Gateway" alt="Gateway Icon" src="src/Gateway_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Gateway New" alt="Gateway New Icon" src="src/Gateway_New_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Function</td><td align="center">Garbage</td><td align="center">Gateway</td><td align="center">Gateway New</td><td align="center">GitHub</td>
+<td align="center">Full Screen</td><td align="center">Function</td><td align="center">Garbage</td><td align="center">Gateway</td><td align="center">Gateway New</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Goal" alt="Goal Icon" src="src/Goal_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Groups" alt="Groups Icon" src="src/Groups_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Hacker" alt="Hacker Icon" src="src/Hacker_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Hamburger" alt="Hamburger Icon" src="src/Hamburger_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Heartbeat" alt="Heartbeat Icon" src="src/Heartbeat_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="GitHub" alt="GitHub Icon" src="src/GitHub_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Goal" alt="Goal Icon" src="src/Goal_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Groups" alt="Groups Icon" src="src/Groups_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Hacker" alt="Hacker Icon" src="src/Hacker_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Hamburger" alt="Hamburger Icon" src="src/Hamburger_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Goal</td><td align="center">Groups</td><td align="center">Hacker</td><td align="center">Hamburger</td><td align="center">Heartbeat</td>
+<td align="center">GitHub</td><td align="center">Goal</td><td align="center">Groups</td><td align="center">Hacker</td><td align="center">Hamburger</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Honeypot" alt="Honeypot Icon" src="src/Honeypot_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Hybrid" alt="Hybrid Icon" src="src/Hybrid_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="IaaS" alt="IaaS Icon" src="src/IaaS_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="IaC" alt="IaC Icon" src="src/IaC_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="IAM" alt="IAM Icon" src="src/IAM_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Heartbeat" alt="Heartbeat Icon" src="src/Heartbeat_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Honeypot" alt="Honeypot Icon" src="src/Honeypot_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Hybrid" alt="Hybrid Icon" src="src/Hybrid_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="IaaS" alt="IaaS Icon" src="src/IaaS_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="IaC" alt="IaC Icon" src="src/IaC_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Honeypot</td><td align="center">Hybrid</td><td align="center">IaaS</td><td align="center">IaC</td><td align="center">IAM</td>
+<td align="center">Heartbeat</td><td align="center">Honeypot</td><td align="center">Hybrid</td><td align="center">IaaS</td><td align="center">IaC</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="IDE" alt="IDE Icon" src="src/IDE_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Ignore" alt="Ignore Icon" src="src/Ignore_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Image Profile Detached" alt="Image Profile Detached Icon" src="src/Image_Profile_Detached_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Image Unregistered" alt="Image Unregistered Icon" src="src/Image_Unregistered_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Images" alt="Images Icon" src="src/Images_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="IAM" alt="IAM Icon" src="src/IAM_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="IDE" alt="IDE Icon" src="src/IDE_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Ignore" alt="Ignore Icon" src="src/Ignore_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Image Profile Detached" alt="Image Profile Detached Icon" src="src/Image_Profile_Detached_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Image Unregistered" alt="Image Unregistered Icon" src="src/Image_Unregistered_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">IDE</td><td align="center">Ignore</td><td align="center">Image Profile Detached</td><td align="center">Image Unregistered</td><td align="center">Images</td>
+<td align="center">IAM</td><td align="center">IDE</td><td align="center">Ignore</td><td align="center">Image Profile Detached</td><td align="center">Image Unregistered</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Import" alt="Import Icon" src="src/Import_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Inbound Connection" alt="Inbound Connection Icon" src="src/Inbound_Connection_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Info" alt="Info Icon" src="src/Info_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Infrastructure" alt="Infrastructure Icon" src="src/Infrastructure_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Infrastructure as Code" alt="Infrastructure as Code Icon" src="src/Infrastructure_as_Code_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Images" alt="Images Icon" src="src/Images_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Import" alt="Import Icon" src="src/Import_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Inbound Connection" alt="Inbound Connection Icon" src="src/Inbound_Connection_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Info" alt="Info Icon" src="src/Info_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Infrastructure" alt="Infrastructure Icon" src="src/Infrastructure_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Import</td><td align="center">Inbound Connection</td><td align="center">Info</td><td align="center">Infrastructure</td><td align="center">Infrastructure as Code</td>
+<td align="center">Images</td><td align="center">Import</td><td align="center">Inbound Connection</td><td align="center">Info</td><td align="center">Infrastructure</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Initial Execution" alt="Initial Execution Icon" src="src/Initial_Execution_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Insights" alt="Insights Icon" src="src/Insights_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Insights 2" alt="Insights 2 Icon" src="src/Insights_2_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Instructor lead training" alt="Instructor lead training Icon" src="src/Instructor_lead_training_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Integration" alt="Integration Icon" src="src/Integration_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Infrastructure as Code" alt="Infrastructure as Code Icon" src="src/Infrastructure_as_Code_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Initial Execution" alt="Initial Execution Icon" src="src/Initial_Execution_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Insights" alt="Insights Icon" src="src/Insights_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Insights 2" alt="Insights 2 Icon" src="src/Insights_2_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Instructor lead training" alt="Instructor lead training Icon" src="src/Instructor_lead_training_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Initial Execution</td><td align="center">Insights</td><td align="center">Insights 2</td><td align="center">Instructor lead training</td><td align="center">Integration</td>
+<td align="center">Infrastructure as Code</td><td align="center">Initial Execution</td><td align="center">Insights</td><td align="center">Insights 2</td><td align="center">Instructor lead training</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Inventory" alt="Inventory Icon" src="src/Inventory_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="IP" alt="IP Icon" src="src/IP_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Jenkins" alt="Jenkins Icon" src="src/Jenkins_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Kube Hunter" alt="Kube Hunter Icon" src="src/Kube_Hunter_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="KubeEnforcer" alt="KubeEnforcer Icon" src="src/KubeEnforcer_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Integration" alt="Integration Icon" src="src/Integration_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Inventory" alt="Inventory Icon" src="src/Inventory_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="IP" alt="IP Icon" src="src/IP_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Jenkins" alt="Jenkins Icon" src="src/Jenkins_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="KSPM" alt="KSPM Icon" src="src/KSPM_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Inventory</td><td align="center">IP</td><td align="center">Jenkins</td><td align="center">Kube Hunter</td><td align="center">KubeEnforcer</td>
+<td align="center">Integration</td><td align="center">Inventory</td><td align="center">IP</td><td align="center">Jenkins</td><td align="center">KSPM</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Kubernetes" alt="Kubernetes Icon" src="src/Kubernetes_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Lambda Amazon" alt="Lambda Amazon Icon" src="src/Lambda_Amazon_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Left" alt="Left Icon" src="src/Left_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Linux" alt="Linux Icon" src="src/Linux_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Lock" alt="Lock Icon" src="src/Lock_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Kube Hunter" alt="Kube Hunter Icon" src="src/Kube_Hunter_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="KubeEnforcer" alt="KubeEnforcer Icon" src="src/KubeEnforcer_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Kubernetes" alt="Kubernetes Icon" src="src/Kubernetes_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Lambda Amazon" alt="Lambda Amazon Icon" src="src/Lambda_Amazon_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Left" alt="Left Icon" src="src/Left_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Kubernetes</td><td align="center">Lambda Amazon</td><td align="center">Left</td><td align="center">Linux</td><td align="center">Lock</td>
+<td align="center">Kube Hunter</td><td align="center">KubeEnforcer</td><td align="center">Kubernetes</td><td align="center">Lambda Amazon</td><td align="center">Left</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Log" alt="Log Icon" src="src/Log_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Logout" alt="Logout Icon" src="src/Logout_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Malware Detection" alt="Malware Detection Icon" src="src/Malware_Detection_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Malware Tracking" alt="Malware Tracking Icon" src="src/Malware_Tracking_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Mega Menu" alt="Mega Menu Icon" src="src/Mega_Menu_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Linux" alt="Linux Icon" src="src/Linux_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Lock" alt="Lock Icon" src="src/Lock_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Log" alt="Log Icon" src="src/Log_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Logout" alt="Logout Icon" src="src/Logout_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Malware Detection" alt="Malware Detection Icon" src="src/Malware_Detection_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Log</td><td align="center">Logout</td><td align="center">Malware Detection</td><td align="center">Malware Tracking</td><td align="center">Mega Menu</td>
+<td align="center">Linux</td><td align="center">Lock</td><td align="center">Log</td><td align="center">Logout</td><td align="center">Malware Detection</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Memory" alt="Memory Icon" src="src/Memory_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="MicroEnforcer" alt="MicroEnforcer Icon" src="src/MicroEnforcer_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Microsoft Azure" alt="Microsoft Azure Icon" src="src/Microsoft_Azure_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Misconfiguration" alt="Misconfiguration Icon" src="src/Misconfiguration_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Mitigation" alt="Mitigation Icon" src="src/Mitigation_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Malware Tracking" alt="Malware Tracking Icon" src="src/Malware_Tracking_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Mega Menu" alt="Mega Menu Icon" src="src/Mega_Menu_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Memory" alt="Memory Icon" src="src/Memory_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="MicroEnforcer" alt="MicroEnforcer Icon" src="src/MicroEnforcer_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Microsoft Azure" alt="Microsoft Azure Icon" src="src/Microsoft_Azure_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Memory</td><td align="center">MicroEnforcer</td><td align="center">Microsoft Azure</td><td align="center">Misconfiguration</td><td align="center">Mitigation</td>
+<td align="center">Malware Tracking</td><td align="center">Mega Menu</td><td align="center">Memory</td><td align="center">MicroEnforcer</td><td align="center">Microsoft Azure</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="More Vertical" alt="More Vertical Icon" src="src/More_Vertical_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="NanoEnforcer" alt="NanoEnforcer Icon" src="src/NanoEnforcer_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Nautilus" alt="Nautilus Icon" src="src/Nautilus_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Network Connection" alt="Network Connection Icon" src="src/Network_Connection_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Network Connection WWW" alt="Network Connection WWW Icon" src="src/Network_Connection_WWW_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Misconfiguration" alt="Misconfiguration Icon" src="src/Misconfiguration_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Mitigation" alt="Mitigation Icon" src="src/Mitigation_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="More Vertical" alt="More Vertical Icon" src="src/More_Vertical_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="NanoEnforcer" alt="NanoEnforcer Icon" src="src/NanoEnforcer_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Nautilus" alt="Nautilus Icon" src="src/Nautilus_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">More Vertical</td><td align="center">NanoEnforcer</td><td align="center">Nautilus</td><td align="center">Network Connection</td><td align="center">Network Connection WWW</td>
+<td align="center">Misconfiguration</td><td align="center">Mitigation</td><td align="center">More Vertical</td><td align="center">NanoEnforcer</td><td align="center">Nautilus</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="No Orch" alt="No Orch Icon" src="src/No_Orch_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Nodes" alt="Nodes Icon" src="src/Nodes_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Notification Panel" alt="Notification Panel Icon" src="src/Notification_Panel_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Notifications" alt="Notifications Icon" src="src/Notifications_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Off" alt="Off Icon" src="src/Off_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Network Connection" alt="Network Connection Icon" src="src/Network_Connection_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Network Connection WWW" alt="Network Connection WWW Icon" src="src/Network_Connection_WWW_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="No Orch" alt="No Orch Icon" src="src/No_Orch_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Nodes" alt="Nodes Icon" src="src/Nodes_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Notification Panel" alt="Notification Panel Icon" src="src/Notification_Panel_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">No Orch</td><td align="center">Nodes</td><td align="center">Notification Panel</td><td align="center">Notifications</td><td align="center">Off</td>
+<td align="center">Network Connection</td><td align="center">Network Connection WWW</td><td align="center">No Orch</td><td align="center">Nodes</td><td align="center">Notification Panel</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="OK" alt="OK Icon" src="src/OK_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="On" alt="On Icon" src="src/On_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Open Source" alt="Open Source Icon" src="src/Open_Source_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="OpenShift" alt="OpenShift Icon" src="src/OpenShift_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="OS Package Manager" alt="OS Package Manager Icon" src="src/OS_Package_Manager_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Notifications" alt="Notifications Icon" src="src/Notifications_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Off" alt="Off Icon" src="src/Off_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="OK" alt="OK Icon" src="src/OK_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="On" alt="On Icon" src="src/On_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Open Source" alt="Open Source Icon" src="src/Open_Source_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">OK</td><td align="center">On</td><td align="center">Open Source</td><td align="center">OpenShift</td><td align="center">OS Package Manager</td>
+<td align="center">Notifications</td><td align="center">Off</td><td align="center">OK</td><td align="center">On</td><td align="center">Open Source</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="OSS License" alt="OSS License Icon" src="src/OSS_License_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Outbound Connection" alt="Outbound Connection Icon" src="src/Outbound_Connection_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Pending" alt="Pending Icon" src="src/Pending_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="PHP" alt="PHP Icon" src="src/PHP_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Plans and Prices" alt="Plans and Prices Icon" src="src/Plans_and_Prices_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="OpenShift" alt="OpenShift Icon" src="src/OpenShift_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="OS Package Manager" alt="OS Package Manager Icon" src="src/OS_Package_Manager_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="OSS License" alt="OSS License Icon" src="src/OSS_License_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Outbound Connection" alt="Outbound Connection Icon" src="src/Outbound_Connection_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Pending" alt="Pending Icon" src="src/Pending_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">OSS License</td><td align="center">Outbound Connection</td><td align="center">Pending</td><td align="center">PHP</td><td align="center">Plans and Prices</td>
+<td align="center">OpenShift</td><td align="center">OS Package Manager</td><td align="center">OSS License</td><td align="center">Outbound Connection</td><td align="center">Pending</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Plans Pricing" alt="Plans Pricing Icon" src="src/Plans_Pricing_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Play" alt="Play Icon" src="src/Play_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Pod Enforcer" alt="Pod Enforcer Icon" src="src/Pod_Enforcer_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Pods" alt="Pods Icon" src="src/Pods_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Policies" alt="Policies Icon" src="src/Policies_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="PHP" alt="PHP Icon" src="src/PHP_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Plans and Prices" alt="Plans and Prices Icon" src="src/Plans_and_Prices_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Plans Pricing" alt="Plans Pricing Icon" src="src/Plans_Pricing_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Play" alt="Play Icon" src="src/Play_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Pod Enforcer" alt="Pod Enforcer Icon" src="src/Pod_Enforcer_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Plans Pricing</td><td align="center">Play</td><td align="center">Pod Enforcer</td><td align="center">Pods</td><td align="center">Policies</td>
+<td align="center">PHP</td><td align="center">Plans and Prices</td><td align="center">Plans Pricing</td><td align="center">Play</td><td align="center">Pod Enforcer</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Policy Violation" alt="Policy Violation Icon" src="src/Policy_Violation_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="PostgreSQL" alt="PostgreSQL Icon" src="src/PostgreSQL_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Privacy" alt="Privacy Icon" src="src/Privacy_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Privileged" alt="Privileged Icon" src="src/Privileged_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Process" alt="Process Icon" src="src/Process_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Pods" alt="Pods Icon" src="src/Pods_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Policies" alt="Policies Icon" src="src/Policies_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Policy Violation" alt="Policy Violation Icon" src="src/Policy_Violation_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="PostgreSQL" alt="PostgreSQL Icon" src="src/PostgreSQL_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Privacy" alt="Privacy Icon" src="src/Privacy_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Policy Violation</td><td align="center">PostgreSQL</td><td align="center">Privacy</td><td align="center">Privileged</td><td align="center">Process</td>
+<td align="center">Pods</td><td align="center">Policies</td><td align="center">Policy Violation</td><td align="center">PostgreSQL</td><td align="center">Privacy</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Prometheus" alt="Prometheus Icon" src="src/Prometheus_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Propagation" alt="Propagation Icon" src="src/Propagation_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Protect Containerized Apps" alt="Protect Containerized Apps Icon" src="src/Protect_Containerized_Apps_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Proxy" alt="Proxy Icon" src="src/Proxy_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Quality Assurance" alt="Quality Assurance Icon" src="src/Quality_Assurance_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Privileged" alt="Privileged Icon" src="src/Privileged_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Process" alt="Process Icon" src="src/Process_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Prometheus" alt="Prometheus Icon" src="src/Prometheus_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Propagation" alt="Propagation Icon" src="src/Propagation_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Protect Containerized Apps" alt="Protect Containerized Apps Icon" src="src/Protect_Containerized_Apps_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Prometheus</td><td align="center">Propagation</td><td align="center">Protect Containerized Apps</td><td align="center">Proxy</td><td align="center">Quality Assurance</td>
+<td align="center">Privileged</td><td align="center">Process</td><td align="center">Prometheus</td><td align="center">Propagation</td><td align="center">Protect Containerized Apps</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Question Round" alt="Question Round Icon" src="src/Question_Round_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Refresh" alt="Refresh Icon" src="src/Refresh_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Registries" alt="Registries Icon" src="src/Registries_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Remediation" alt="Remediation Icon" src="src/Remediation_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Reports" alt="Reports Icon" src="src/Reports_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Proxy" alt="Proxy Icon" src="src/Proxy_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Quality Assurance" alt="Quality Assurance Icon" src="src/Quality_Assurance_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Question Round" alt="Question Round Icon" src="src/Question_Round_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Refresh" alt="Refresh Icon" src="src/Refresh_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Registries" alt="Registries Icon" src="src/Registries_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Question Round</td><td align="center">Refresh</td><td align="center">Registries</td><td align="center">Remediation</td><td align="center">Reports</td>
+<td align="center">Proxy</td><td align="center">Quality Assurance</td><td align="center">Question Round</td><td align="center">Refresh</td><td align="center">Registries</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Reset" alt="Reset Icon" src="src/Reset_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Resource" alt="Resource Icon" src="src/Resource_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Reverse" alt="Reverse Icon" src="src/Reverse_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Right" alt="Right Icon" src="src/Right_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SaaS" alt="SaaS Icon" src="src/SaaS_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Remediation" alt="Remediation Icon" src="src/Remediation_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Reports" alt="Reports Icon" src="src/Reports_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Reset" alt="Reset Icon" src="src/Reset_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Resource" alt="Resource Icon" src="src/Resource_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Reverse" alt="Reverse Icon" src="src/Reverse_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Reset</td><td align="center">Resource</td><td align="center">Reverse</td><td align="center">Right</td><td align="center">SaaS</td>
+<td align="center">Remediation</td><td align="center">Reports</td><td align="center">Reset</td><td align="center">Resource</td><td align="center">Reverse</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="SAST" alt="SAST Icon" src="src/SAST_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SBOM" alt="SBOM Icon" src="src/SBOM_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Scanning" alt="Scanning Icon" src="src/Scanning_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Schedule" alt="Schedule Icon" src="src/Schedule_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SCM Accounts" alt="SCM Accounts Icon" src="src/SCM_Accounts_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Right" alt="Right Icon" src="src/Right_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SaaS" alt="SaaS Icon" src="src/SaaS_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SAST" alt="SAST Icon" src="src/SAST_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SBOM" alt="SBOM Icon" src="src/SBOM_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Scanning" alt="Scanning Icon" src="src/Scanning_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">SAST</td><td align="center">SBOM</td><td align="center">Scanning</td><td align="center">Schedule</td><td align="center">SCM Accounts</td>
+<td align="center">Right</td><td align="center">SaaS</td><td align="center">SAST</td><td align="center">SBOM</td><td align="center">Scanning</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Search" alt="Search Icon" src="src/Search_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Secrets" alt="Secrets Icon" src="src/Secrets_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Security" alt="Security Icon" src="src/Security_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Security specialist" alt="Security specialist Icon" src="src/Security_specialist_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Sensitive Data" alt="Sensitive Data Icon" src="src/Sensitive_Data_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Schedule" alt="Schedule Icon" src="src/Schedule_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SCM Accounts" alt="SCM Accounts Icon" src="src/SCM_Accounts_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Search" alt="Search Icon" src="src/Search_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Secrets" alt="Secrets Icon" src="src/Secrets_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Security" alt="Security Icon" src="src/Security_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Search</td><td align="center">Secrets</td><td align="center">Security</td><td align="center">Security specialist</td><td align="center">Sensitive Data</td>
+<td align="center">Schedule</td><td align="center">SCM Accounts</td><td align="center">Search</td><td align="center">Secrets</td><td align="center">Security</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Services" alt="Services Icon" src="src/Services_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Settings" alt="Settings Icon" src="src/Settings_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Settings Gear" alt="Settings Gear Icon" src="src/Settings_Gear_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Show More" alt="Show More Icon" src="src/Show_More_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SIEM" alt="SIEM Icon" src="src/SIEM_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Security Camera" alt="Security Camera Icon" src="src/Security_Camera_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Security specialist" alt="Security specialist Icon" src="src/Security_specialist_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Sensitive Data" alt="Sensitive Data Icon" src="src/Sensitive_Data_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Services" alt="Services Icon" src="src/Services_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Settings" alt="Settings Icon" src="src/Settings_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Services</td><td align="center">Settings</td><td align="center">Settings Gear</td><td align="center">Show More</td><td align="center">SIEM</td>
+<td align="center">Security Camera</td><td align="center">Security specialist</td><td align="center">Sensitive Data</td><td align="center">Services</td><td align="center">Settings</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="SOC" alt="SOC Icon" src="src/SOC_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Speed" alt="Speed Icon" src="src/Speed_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Stamp" alt="Stamp Icon" src="src/Stamp_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Storage" alt="Storage Icon" src="src/Storage_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Storage 2" alt="Storage 2 Icon" src="src/Storage_2_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Settings Gear" alt="Settings Gear Icon" src="src/Settings_Gear_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Show More" alt="Show More Icon" src="src/Show_More_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SIEM" alt="SIEM Icon" src="src/SIEM_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SOC" alt="SOC Icon" src="src/SOC_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Speed" alt="Speed Icon" src="src/Speed_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">SOC</td><td align="center">Speed</td><td align="center">Stamp</td><td align="center">Storage</td><td align="center">Storage 2</td>
+<td align="center">Settings Gear</td><td align="center">Show More</td><td align="center">SIEM</td><td align="center">SOC</td><td align="center">Speed</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Superuser" alt="Superuser Icon" src="src/Superuser_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SupplyChain" alt="SupplyChain Icon" src="src/SupplyChain_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Support Website" alt="Support Website Icon" src="src/Support_Website_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Suppress" alt="Suppress Icon" src="src/Suppress_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Table" alt="Table Icon" src="src/Table_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Stamp" alt="Stamp Icon" src="src/Stamp_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Storage" alt="Storage Icon" src="src/Storage_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Storage 2" alt="Storage 2 Icon" src="src/Storage_2_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Superuser" alt="Superuser Icon" src="src/Superuser_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="SupplyChain" alt="SupplyChain Icon" src="src/SupplyChain_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Superuser</td><td align="center">SupplyChain</td><td align="center">Support Website</td><td align="center">Suppress</td><td align="center">Table</td>
+<td align="center">Stamp</td><td align="center">Storage</td><td align="center">Storage 2</td><td align="center">Superuser</td><td align="center">SupplyChain</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="TAS" alt="TAS Icon" src="src/TAS_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Tenant Manager" alt="Tenant Manager Icon" src="src/Tenant_Manager_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Third Party" alt="Third Party Icon" src="src/Third_Party_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Tools" alt="Tools Icon" src="src/Tools_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Tree" alt="Tree Icon" src="src/Tree_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Support Website" alt="Support Website Icon" src="src/Support_Website_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Suppress" alt="Suppress Icon" src="src/Suppress_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Table" alt="Table Icon" src="src/Table_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="TAS" alt="TAS Icon" src="src/TAS_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Tenant Manager" alt="Tenant Manager Icon" src="src/Tenant_Manager_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">TAS</td><td align="center">Tenant Manager</td><td align="center">Third Party</td><td align="center">Tools</td><td align="center">Tree</td>
+<td align="center">Support Website</td><td align="center">Suppress</td><td align="center">Table</td><td align="center">TAS</td><td align="center">Tenant Manager</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Troubleshooting" alt="Troubleshooting Icon" src="src/Troubleshooting_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Ubuntu" alt="Ubuntu Icon" src="src/Ubuntu_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Unknown Image" alt="Unknown Image Icon" src="src/Unknown_Image_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Up" alt="Up Icon" src="src/Up_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Upload" alt="Upload Icon" src="src/Upload_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Third Party" alt="Third Party Icon" src="src/Third_Party_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Tools" alt="Tools Icon" src="src/Tools_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Tree" alt="Tree Icon" src="src/Tree_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Troubleshooting" alt="Troubleshooting Icon" src="src/Troubleshooting_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Ubuntu" alt="Ubuntu Icon" src="src/Ubuntu_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Troubleshooting</td><td align="center">Ubuntu</td><td align="center">Unknown Image</td><td align="center">Up</td><td align="center">Upload</td>
+<td align="center">Third Party</td><td align="center">Tools</td><td align="center">Tree</td><td align="center">Troubleshooting</td><td align="center">Ubuntu</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Usage" alt="Usage Icon" src="src/Usage_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Video Camera" alt="Video Camera Icon" src="src/Video_Camera_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Virtual classroom" alt="Virtual classroom Icon" src="src/Virtual_classroom_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="VM Enforcer" alt="VM Enforcer Icon" src="src/VM_Enforcer_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Volume" alt="Volume Icon" src="src/Volume_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Unknown Image" alt="Unknown Image Icon" src="src/Unknown_Image_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Up" alt="Up Icon" src="src/Up_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Upload" alt="Upload Icon" src="src/Upload_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Usage" alt="Usage Icon" src="src/Usage_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Video Camera" alt="Video Camera Icon" src="src/Video_Camera_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Usage</td><td align="center">Video Camera</td><td align="center">Virtual classroom</td><td align="center">VM Enforcer</td><td align="center">Volume</td>
+<td align="center">Unknown Image</td><td align="center">Up</td><td align="center">Upload</td><td align="center">Usage</td><td align="center">Video Camera</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="vShield" alt="vShield Icon" src="src/vShield_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Vulnerability Score" alt="Vulnerability Score Icon" src="src/Vulnerability_Score_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Warning" alt="Warning Icon" src="src/Warning_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Warning Round" alt="Warning Round Icon" src="src/Warning_Round_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Weaponization" alt="Weaponization Icon" src="src/Weaponization_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Virtual classroom" alt="Virtual classroom Icon" src="src/Virtual_classroom_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="VM Enforcer" alt="VM Enforcer Icon" src="src/VM_Enforcer_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Volume" alt="Volume Icon" src="src/Volume_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="vShield" alt="vShield Icon" src="src/vShield_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Vulnerability Score" alt="Vulnerability Score Icon" src="src/Vulnerability_Score_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">vShield</td><td align="center">Vulnerability Score</td><td align="center">Warning</td><td align="center">Warning Round</td><td align="center">Weaponization</td>
+<td align="center">Virtual classroom</td><td align="center">VM Enforcer</td><td align="center">Volume</td><td align="center">vShield</td><td align="center">Vulnerability Score</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="WordPress" alt="WordPress Icon" src="src/WordPress_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Workloads" alt="Workloads Icon" src="src/Workloads_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Workloads Misconfiguration" alt="Workloads Misconfiguration Icon" src="src/Workloads_Misconfiguration_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="ZoomIn" alt="ZoomIn Icon" src="src/ZoomIn_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="ZoomOut" alt="ZoomOut Icon" src="src/ZoomOut_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Warning" alt="Warning Icon" src="src/Warning_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Warning Round" alt="Warning Round Icon" src="src/Warning_Round_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Weaponization" alt="Weaponization Icon" src="src/Weaponization_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="WordPress" alt="WordPress Icon" src="src/WordPress_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Workloads" alt="Workloads Icon" src="src/Workloads_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">WordPress</td><td align="center">Workloads</td><td align="center">Workloads Misconfiguration</td><td align="center">ZoomIn</td><td align="center">ZoomOut</td>
+<td align="center">Warning</td><td align="center">Warning Round</td><td align="center">Weaponization</td><td align="center">WordPress</td><td align="center">Workloads</td>
+</tr>
+<tr>
+<td align="center"><img width="100" height="100" title="Workloads Misconfiguration" alt="Workloads Misconfiguration Icon" src="src/Workloads_Misconfiguration_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="ZoomIn" alt="ZoomIn Icon" src="src/ZoomIn_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="ZoomOut" alt="ZoomOut Icon" src="src/ZoomOut_Aqua.svg" /></td><td></td><td></td>
+</tr>
+<tr>
+<td align="center">Workloads Misconfiguration</td><td align="center">ZoomIn</td><td align="center">ZoomOut</td><td></td><td></td>
 </tr>
 </table>
 <!-- /table -->
