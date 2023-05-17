@@ -40,10 +40,10 @@ This table has been automatically generated. Please do not edit directly, but ru
 <td align="center">Academy</td><td align="center">Accept Risk</td><td align="center">Accessibility</td><td align="center">Add</td><td align="center">Adhere to Policy</td>
 </tr>
 <tr>
-<td align="center"><img width="100" height="100" title="Alerts New Risks" alt="Alerts New Risks Icon" src="src/Alerts_New_Risks_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Alibaba Cloud" alt="Alibaba Cloud Icon" src="src/Alibaba_Cloud_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Amazon AWS" alt="Amazon AWS Icon" src="src/Amazon_AWS_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="API Documentation" alt="API Documentation Icon" src="src/API_Documentation_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="API Keys" alt="API Keys Icon" src="src/API_Keys_Aqua.svg" /></td>
+<td align="center"><img width="100" height="100" title="Adhere To Policy" alt="Adhere To Policy Icon" src="src/Adhere_To_Policy_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Alerts New Risks" alt="Alerts New Risks Icon" src="src/Alerts_New_Risks_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Alibaba Cloud" alt="Alibaba Cloud Icon" src="src/Alibaba_Cloud_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Amazon AWS" alt="Amazon AWS Icon" src="src/Amazon_AWS_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="API Documentation" alt="API Documentation Icon" src="src/API_Documentation_Aqua.svg" /></td>
 </tr>
 <tr>
-<td align="center">Alerts New Risks</td><td align="center">Alibaba Cloud</td><td align="center">Amazon AWS</td><td align="center">API Documentation</td><td align="center">API Keys</td>
+<td align="center">Adhere To Policy</td><td align="center">Alerts New Risks</td><td align="center">Alibaba Cloud</td><td align="center">Amazon AWS</td><td align="center">API Documentation</td>
 </tr>
 <tr>
 <td align="center"><img width="100" height="100" title="Approved Base Images" alt="Approved Base Images Icon" src="src/Approved_Base_Images_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Aqua" alt="Aqua Icon" src="src/Aqua_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Aqua Enforcer" alt="Aqua Enforcer Icon" src="src/Aqua_Enforcer_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Aqua Plugin" alt="Aqua Plugin Icon" src="src/Aqua_Plugin_Aqua.svg" /></td><td align="center"><img width="100" height="100" title="Aqua Score" alt="Aqua Score Icon" src="src/Aqua_Score_Aqua.svg" /></td>
@@ -339,4 +339,3 @@ The icon grid establishes clear rules for the consistent, but flexible, position
 Keyline, minimalistic shapes are the foundation of the grid and define the boldness of our unique line of icons that reflect our values: We are the Experts, We are Bold. This grid was used also for the creation of Aqua Droplet Font. 
 
 <p align="center"><img title="Grid" alt="Icon Grid" src="grid2.jpeg" /></p>
-
